@@ -29,8 +29,8 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+College Students have hectic lives with lots of classes and extracirriculars. This leads to students cramming for exams that 
+they should have been preparing for in advance.  Our program will keep students accountable by reminding students to study for exams earlier and for a managable amount of time. The program will base the study schedule on the date of exam, student availability, and their level of confidence in the material being tested on. 
 
 ## Questions to answer for Exercise #2
 
