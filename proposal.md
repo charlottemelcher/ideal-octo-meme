@@ -73,6 +73,7 @@ ClassName: ExamPlanner.java
 * print out the output for the user
 
 Name each interface or class and briefly describe its function or purpose.
+
 Implementing an ArrayList of ArrayLists. The first ArrayList represents the calendar. The ArrayLists that 
 are being held in the calendar ArrayList would be of type ExamPlanner and hold all the inputs for that Exam.
 
