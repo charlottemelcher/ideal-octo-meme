@@ -1,4 +1,4 @@
-# X-Team NN Project Proposal
+# X-Team 92 Exam Planner Proposal
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -36,11 +36,13 @@ Describe at a high level a program that could solve that problem.
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
 
-
+Exam Planner
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
+The output will be how many days in advance you should start studying for the exam based on the comfort level inputted and it will provide the start date of when you should begin preparing. It will also output how many hours each day you should study for that exam.
 
+EX: "For your CS400 exam you should start studying 5 days prior to the exam on October 20th for 3 hours each day."
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
