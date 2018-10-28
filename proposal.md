@@ -58,18 +58,23 @@ This programs requires several inputs
    - 5
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface. 
+
 The interface would be a simple GUI. It would have a written reminder to study for a specific class that was already possibbly entered.
 There is a "Create New Test Plan" button under these reminders and a "Calendar" button above the reminders. The "Calendar 
-button would take you to a simple list of dates with the word "Test" on days that were previously entered. The "Create New Test Plan" button would take you to a list of questions for the inputs listed above. There would be an "Implment" button to add the New Test Plan to the calndar.
+button would take you to a simple list of dates with the word "Test" on days that were previously entered. The "Create New 
+Test Plan" button would take you to a list of questions for the inputs listed above. There would be an "Implment" button to 
+add the New Test Plan to the calndar.
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-
+ClassName: ExamPlanner.java
 * calculate how many days needed to study (based on comfort level)
 * calculate how many hours to study each of those days (based on comfort level and how much time the user has available to study each day)
 * calculate the start date based off of how many days of studying and the exam date
 * print out the output for the user
 
 Name each interface or class and briefly describe its function or purpose.
+Implementing an ArrayList of ArrayLists. The first ArrayList represents the calendar. The ArrayLists that 
+are being held in the calendar ArrayList would be of type ExamPlanner and hold all the inputs for that Exam.
 
 
 ## Edit and Submit this file and any figures referenced by this document.
