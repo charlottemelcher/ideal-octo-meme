@@ -80,6 +80,9 @@ Name each interface or class and briefly describe its function or purpose.
 Implementing an ArrayList of ArrayLists. The first ArrayList represents the calendar. The ArrayLists that 
 are being held in the calendar ArrayList would be of type ExamPlanner and hold all the inputs for that Exam.
 
+ExamPlanner will be instantiated in the Main.java
+Main.java will do the main operations of the program and will prompt for user input
+
 
 ## Edit and Submit this file and any figures referenced by this document.
 
