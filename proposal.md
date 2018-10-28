@@ -54,7 +54,10 @@ EX: "For your CS400 exam you should start studying 5 days prior to the exam on O
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
-
+* calculate how many days needed to study (based on comfort level)
+* calculate how many hours to study each of those days (based on comfort level and how much time the user has available to study each day)
+* calculate the start date based off of how many days of studying and the exam date
+* print out the output for the user
 
 Name each interface or class and briefly describe its function or purpose.
 
