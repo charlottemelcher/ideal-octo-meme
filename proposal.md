@@ -51,11 +51,11 @@ This programs requires several inputs
    1. The date of the test of the respective class as an Integer value
    1. The amount of study time you have in a day on average as an Integer value
     
- *Example*
- - CS400
- - 7
- - 121518
- - 5
+   *Example*
+   - CS400
+   - 7
+   - 121518
+   - 5
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface. 
 The interface would be a simple GUI. It would have a written reminder to study for a specific class that was already possibbly entered.
