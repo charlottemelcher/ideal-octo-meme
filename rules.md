@@ -28,4 +28,4 @@ and missed deadlines.
 
 ## Add any other rules that your team establishes to help each other work effectively together
 1. Communicate conflicts
-1. Don't be passiv aggressive
+1. Don't be passive aggressive
