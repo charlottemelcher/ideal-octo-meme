@@ -45,17 +45,17 @@ The output will be how many days in advance you should start studying for the ex
 EX: "For your CS400 exam you should start studying 5 days prior to the exam on October 20th for 3 hours each day."
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
-    This programs requires several inputs
-    1. The respective class in string formal
-    1. The comfortability with this particular class as an Integer value
-    1. The date of the test of the respective class as an Integer value
-    1. The amount of study time you have in a day on average as an Integer value
+This programs requires several inputs
+ 1. The respective class in string formal
+ 1. The comfortability with this particular class as an Integer value
+ 1. The date of the test of the respective class as an Integer value
+ 1. The amount of study time you have in a day on average as an Integer value
     
-    *Example*
-    CS400
-    7
-    121518
-    5
+ *Example*
+ -CS400
+ -7
+ -121518
+ -5
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface. 
 The interface would be a simple GUI. It would have a written reminder to study for a specific class that was already possibbly entered.
