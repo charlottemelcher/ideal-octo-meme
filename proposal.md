@@ -71,8 +71,11 @@ ClassName: ExamPlanner.java
 * calculate how many hours to study each of those days (based on comfort level and how much time the user has available to study each day)
 * calculate the start date based off of how many days of studying and the exam date
 * print out the output for the user
+* Store the level of confidence in int field
+* Store exam date in int field (102916 = 10/29/2016)
 
 Name each interface or class and briefly describe its function or purpose.
+
 
 Implementing an ArrayList of ArrayLists. The first ArrayList represents the calendar. The ArrayLists that 
 are being held in the calendar ArrayList would be of type ExamPlanner and hold all the inputs for that Exam.
