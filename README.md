@@ -10,7 +10,7 @@
        * GitHub username 1:jkirschnik12     name 1:Joe Kirschnik
        * GitHub username 2:annalipki        name 2:Anna Lipkind
        * GitHub username 3:charlottemelcher name 3:Charlotte Melcher
-       * GitHub username 4:       name 4:
+       * GitHub username 4: rileygc name 4: Riley Sterman
        * GitHub username 5:       name 5:
    * When did you complete this exercise? 10/28/18
    * How long did it take your team to complete this exercise? 1.5 hours
